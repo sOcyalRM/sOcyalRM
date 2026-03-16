@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sOcyalRM
 - 👀 I’m interested in having organized repositories of all the projects that I'm working in. 
-- 🌱 I’m currently learning web development applying the tools of HTML, CSS, JavaScript  Python.
+- 🌱 I’m currently learning web development applying the tools of HTML, CSS, JavaScript and Python.
 - 💞️ I’m looking to collaborate on any matter related to web programming.
 - 📫 How to reach me: oscaly@hotmail.com.  
 
